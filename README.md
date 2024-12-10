@@ -1,4 +1,4 @@
-# project_04
+# Exam Routine Automation Project
 A Complete Student Enrollment System.
 
 ADMIN Login:
